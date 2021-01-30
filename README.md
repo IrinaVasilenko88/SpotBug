@@ -6,6 +6,6 @@
 
 ## Тема: Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs
 
--Установка плагина SpotBugs
+- Установка плагина SpotBugs
 
--Настройка goal ``` check ``` в фазу ``` verify ``` 
+- Настройка goal ``` check ``` в фазу ``` verify ``` 
